@@ -28,9 +28,18 @@
 * **-u**: 
 
 ## <a name ="proj-demo"></a> Project Demo
-* 
+**DESIGN**
 <p align = "center"><img src = ""></p>
-<p align= "center"> Pocket </p>
+
+
+**USER JOURNEY**
+* **Step 1**: Set your total budget & take the introductory survey
+* **Step 2**: Link credit card(s), submit receipt pictures, or input entries manually.
+* **Step 3**: Informational graphs will come to life and help you keep track of how you are spending and how much.
+* **Step 4**: Rate recommendations made for you based on usefulness.
+<p align = "center"><img src = "Screen Shot 2019-11-13 at 5.27.19 PM.png"></p>
+
+
 
 ## <a name ="lim"></a> Limitations
 **1. Past Financial Constraints**: The algorithms depends on past financial budget and spending. As we wouldn't have past budget for new users, the quality and quantity of tips can vary depending on the user.
