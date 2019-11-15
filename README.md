@@ -8,7 +8,6 @@
   * [Future Prospects](#var)
   * [Appendix](#app)
   
-
 ## <a name ="team-members"></a> Collaborators
 * [Muskaan Goyal]
 * [Ewen Dai]
@@ -37,10 +36,11 @@
 ## <a name ="lim"></a> Limitations
 **1. Past Financial Constraints**: The algorithms depends on past financial budget and spending. As we wouldn't have past budget for new users, the quality and quantity of tips can vary depending on the user.
 
-**2. Qaulity and Quantity of Tips**: To release new recommendations regularly for the users we need a good quantity of tips while mainting their quality.
+**2. Quality and Quantity of Tips**: To release new recommendations regularly for the users we need a good quantity of tips while mainting their quality.
 
 ## <a name ="var"></a> Future Prospects
 * Functionality to add customisable trackers. eg. add tracker for subscriptions. 
+* Add location based recommendation functionality to the algorithm to provide with better recommendations/tips.
 
 ## <a name ="app"></a> Appendix
 * User Based Collaborative Filtering using N-Nearest Neighbours: https://medium.com/sfu-big-data/recommendation-systems-user-based-collaborative-filtering-using-n-nearest-neighbors-bf7361dc24e0
