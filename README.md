@@ -4,6 +4,7 @@
   * [Collaborators](#team-members)
   * [Introduction](#intro)
   * [Project Demo](#proj-demo)
+  * [Thinking Process](#thinking-process)
   * [Limitations](#lim)
   * [Future Prospects](#var)
   * [Appendix](#app)
@@ -20,6 +21,13 @@
 * Note: Pocket was created during IBM X DSS Datathon for Social Good in November 2019 where the project won the **first prize** in the datathon.
 
 * Look at our slides for the datathon here: https://tinyurl.com/project-pocket.
+
+## <a name ="thinking-process"></a> Thinking Process
+
+<p align = "center"><img src = "Datathon-1.jpg"></p>
+
+MINIMUM VIABLE PRODUCT: 
+<p align = "center"><img src = "Datathon-2.jpg"></p>
 
 ## <a name ="proj-demo"></a> Project Demo
 **DESIGN**
